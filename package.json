@@ -1,11 +1,15 @@
 {
-  "name": "@invisinet/aws-client-cloudformation",
+  "name": "aws-client-cloudformation-invisinet",
   "version": "1.0.0",
   "description": "A Package to connect and create cloudformation stack with ease.",
   "main": "index.js",
   "type": "module",
+  "private": false,
   "scripts": {
-    "start": "node src/index.js"
+    "create-client-cloudformation": "node src/index.js"
+  },
+  "bin": {
+    "create-cc": "bin/index.js"
   },
   "repository": {
     "type": "git",

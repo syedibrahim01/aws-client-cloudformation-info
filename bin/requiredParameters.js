@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 const requiredParameters = [
   "region",
   "stackName",
