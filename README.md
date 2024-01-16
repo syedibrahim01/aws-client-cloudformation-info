@@ -1,4 +1,4 @@
-# AWS SDK FOR CREATING CLIENT CLOUDFORMATION
+# AWS SDK For Creating Cloudformation Stack
 
 ## Overview
 
