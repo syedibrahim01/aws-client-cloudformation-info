@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 export default function help(params) {
   if (
     params[0] === "?" ||

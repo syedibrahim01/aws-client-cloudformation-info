@@ -6,7 +6,8 @@
   "type": "module",
   "private": false,
   "scripts": {
-    "create-client-cloudformation": "node src/index.js"
+    "create-client-cloudformation": "node bin/index.js",
+    "format": "prettier --end-of-line crlf --write ."
   },
   "bin": {
     "create-cc": "bin/index.js"

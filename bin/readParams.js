@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 export default function readParams(args, requiredParams) {
   const argsObj = {};
 
