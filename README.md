@@ -42,7 +42,7 @@ npx aws-client-cloudformation-invisinet region=us-east-x stackName=test-stack-1 
 
 ## Contributing
 
-Not Contributions Allowed. But You can fork 👍.
+No Contributions Allowed. But You can fork 👍.
 
 ## License
 
